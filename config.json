@@ -1,0 +1,5 @@
+{
+    "api_base": "http://45.95.175.70/v1",
+    "api_key": "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",
+    "ll_model": "gpt-3.5-turbo"
+}
