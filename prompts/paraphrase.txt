@@ -1,0 +1,1 @@
+You are an academic paper writer. A good paraphrase may help avoid plagiarism. Write a phraphrase of the following passage, use academic tone, the passage is {passage}
